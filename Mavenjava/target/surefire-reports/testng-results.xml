@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34" started-at="2018-01-18T19:50:38Z" finished-at="2018-01-18T19:50:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34" started-at="2018-01-18T19:50:38Z" finished-at="2018-01-18T19:50:38Z">
+      <class name="vaishnavilearning.Testingtest">
+        <test-method status="PASS" signature="secondary()[pri:0, instance:vaishnavilearning.Testingtest@4157f54e]" name="secondary" duration-ms="0" started-at="2018-01-18T14:50:38Z" finished-at="2018-01-18T14:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondary -->
+      </class> <!-- vaishnavilearning.Testingtest -->
+      <class name="vaishnavilearning.Seleniumtest">
+        <test-method status="PASS" signature="primary()[pri:0, instance:vaishnavilearning.Seleniumtest@90f6bfd]" name="primary" duration-ms="18" started-at="2018-01-18T14:50:38Z" finished-at="2018-01-18T14:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primary -->
+      </class> <!-- vaishnavilearning.Seleniumtest -->
+      <class name="vaishnavilearning.Inheritencetest">
+        <test-method status="PASS" signature="testing()[pri:0, instance:vaishnavilearning.Inheritencetest@1324409e]" name="testing" duration-ms="0" started-at="2018-01-18T14:50:38Z" finished-at="2018-01-18T14:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- vaishnavilearning.Inheritencetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
